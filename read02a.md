@@ -4,9 +4,9 @@
 
 You can use Markdown most places around GitHub:
 
-*Gists 1
-*Comments in Issues and Pull Requests 2
-*Files with the .md or .markdown extension 3
+* Gists 1
+* Comments in Issues and Pull Requests 2
+* Files with the .md or .markdown extension 3
 ### Examples
 Text Lists Images Headers & Quotes Code Extras
 It's very easy to make some words**bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
