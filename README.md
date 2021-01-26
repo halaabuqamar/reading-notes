@@ -23,5 +23,5 @@ My name is hala abu qamar a pharmacist taking her first steps in breaking out of
 |102 reads                                                             | title         |
 | -------------------------------------------------------------------- | -----------   |
 | [main page](https://halaabuqamar.github.io/reading-notes/)           | **main page** |
-| [Read02a](https://halaabuqamar.github.io/reading-notes/read02a)                                                               |**learning MD**|
-| [Read02b](https://halaabuqamar.github.io/reading-notes/read02b)                                                               |**Git intro**  |
+| [Read02a](https://halaabuqamar.github.io/reading-notes/read02a)      |**learning MD**|
+| [Read02b](https://halaabuqamar.github.io/reading-notes/read02b)      |**Git intro**  |
