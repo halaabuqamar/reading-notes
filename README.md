@@ -20,7 +20,8 @@ My name is hala abu qamar a pharmacist taking her first steps in breaking out of
  
 ###### Feel free to visit my github profile [Profile link](https://github.com/halaabuqamar)
 
-| 201 Reads                                            | Title                                   |
-| ---------------------------------------------------- | --------------------------------------- |
-| [main page](https://yourname.github.io/reponame)     | main page                               |
-| [Read01](https://yourname.github.io/reponame/Read01) | Introductory HTML                       |
+|102 reads                                                                   | title         |
+| -------------------------------------------------------------------------- | -----------   |
+| [main page](https://halaabuqamar.github.io/reading-notes/)                 | **main page** |
+| [Read02a](https://halaabuqamar.github.io/reading-notes/read02a)            |**learning MD**|
+| [Read02a](https://github.com/halaabuqamar/reading-notes/read02b.md)        |**Git intro**  |
