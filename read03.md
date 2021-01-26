@@ -1,3 +1,5 @@
+# Read3 HTML
+```
 <!DOCTYPE html>
 <html>
    <head>
@@ -17,24 +19,24 @@
                 ● Which country do your visitors live in? What is the size of the company or relevant department?
                 ● What is the position of people in the company who visit your site?
                 ● Will visitors be using the site for themselves or for someone else?</ol></p>
-                <h2>Why People Visit
-                    YOUR Website</h2>
+                <h1>Why People Visit
+                    YOUR Website</h1>
                     <p>Your content and design should
                         be influenced by the goals of
                         your users</p>
-                        <h3>What Your Visitors are
-                            Trying to Achieve</h3>
+                        <h1>What Your Visitors are
+                            Trying to Achieve</h1>
                             <p>It is unlikely that you will be able to list every
                                 reason why someone visits your site but you
                                 are looking for key tasks and motivations. This
                                 information can help guide your site designs.</p>
-                                <h4>What Information
-                                    Your Visitors Need</h4>
+                                <h1>What Information
+                                    Your Visitors Need</h1>
                                     <p>You know who is coming to your site and why
                                         they are coming, so now you need to work out
                                         what information they need in order to achieve
                                         their goals quickly and effectively</p>
-                                        <h5>Site Maps</h5>
+                                        <h1>Site Maps</h1>
                                         <p>The aim is to create a diagram
                                             of the pages that will be used
                                             to structure the site. This is
@@ -56,16 +58,41 @@
                                             turn can be grouped together to
                                             create different sections of the
                                             website.</p>
-                                            <h6>WireFrames
-                                            </h6>
+                                            <h1>WireFrames
+                                            </h1>
                                             <p>A wireframe is a simple sketch of the key
                                                 information that needs to go on each page of a
                                                 site. It shows the hierarchy of the information
                                                 and how much space it might require.</p>
-                                                
-        </main>    
+                                                <h1>Getting your message
+                                                    across using design</h1>
+                                                    <p>The primary aim of any kind of visual design
+                                                        is to communicate. Organizing and prioritizing
+                                                        information on a page helps users understand
+                                                        its importance and what order to read it in.</p>
+                                                        <h2>Content</h2>
+                                                        <p>Web pages often have a lot of
+                                                            information to communicate.</p>
+                                                 <h2>Prioritizing</h2>
+                                                 <p>If everything on a page appeared
+                                                    in the same style, it would be
+                                                    much harder to understand. (Key
+                                                    messages would not stand out.)</p>
+                                                    <h2>Organizing</h2>
+                                                <p>Grouping together related
+                                                    content into blocks or chunks
+                                                    makes the page look simpler
+                                                    (and easier to understand).</p>
+                                                    <h1>Visual hierarchy</h1>
+                                                    <ol>
+                                                        size 
+                                                        color
+                                                        style
+                                                    </ol>
+                                                    
          <footer>
 &copy;
         </footer>
   </body>
 </html>
+```
