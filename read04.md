@@ -13,7 +13,6 @@ to complete that task
 A script is made up of a series of statements. Each
 statement is like a step in a recipe. 
 
-for more details >eg)start making of your bed
-[Javascript & Jquery book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01KWU73M53/javascript_and_jquery_interactive_jon_du.pdf?c=1611752532-3144bbced1613732)
+for more details check >[Javascript & Jquery book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01KWU73M53/javascript_and_jquery_interactive_jon_du.pdf?c=1611752532-3144bbced1613732)
 
 
