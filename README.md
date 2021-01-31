@@ -28,3 +28,5 @@ My name is hala abu qamar a pharmacist taking her first steps in breaking out of
 | [Read03](https://halaabuqamar.github.io/reading-notes/read03)        |**HTML**       |
 | [Read04](https://halaabuqamar.github.io/reading-notes/read04)        |**javascript** |
 | [Read05](https://halaabuqamar.github.io/reading-notes/read05)        |**loop,logic** |
+| [Read06a](https://halaabuqamar.github.io/reading-notes/read06a)      |**Functions**  | 
+| [Read06b](https://halaabuqamar.github.io/reading-notes/read06b)      |**Colors**     | 
