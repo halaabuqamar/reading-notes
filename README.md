@@ -20,6 +20,8 @@ My name is hala abu qamar a pharmacist taking her first steps in breaking out of
  
 ###### Feel free to visit my github profile [Profile link](https://github.com/halaabuqamar)
 
+# Code 102 Reading Notes
+
 |102 reads                                                             | title         |
 | -------------------------------------------------------------------- | -----------   |
 | [main page](https://halaabuqamar.github.io/reading-notes/)           | **main page** |
@@ -30,4 +32,35 @@ My name is hala abu qamar a pharmacist taking her first steps in breaking out of
 | [Read05](https://halaabuqamar.github.io/reading-notes/read05)        |**loop,logic** |
 | [Read06a](https://halaabuqamar.github.io/reading-notes/read06a)      |**Functions**  | 
 | [Read06b](https://halaabuqamar.github.io/reading-notes/read06b)      |**Colors**     | 
+
+
+## *GitHub*:
+is a **code hosting** platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests
+
+#### benefits of using GitHub :
+* It makes it easy to contribute to your open source projects.
+* Documentation
+* Showcase your work
+* Track changes in your code across versions.
+
+
+# Code 201 Reading Notes
+|201 reads                                                             | title         |
+| -------------------------------------------------------------------- | -----------   |
+| [main page](https://halaabuqamar.github.io/reading-notes/)           | **main page** |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               | 
+|                                                                      |               | 
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               |
+|                                                                      |               | 
+|                                                                      |               | 
+|                                                                      |               | 
 
