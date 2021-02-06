@@ -45,22 +45,22 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 
 
 # Code 201 Reading Notes
-|201 reads                                                             | title         |
-| -------------------------------------------------------------------- | -----------   |
-| [main page](https://halaabuqamar.github.io/reading-notes/)           | **main page** |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               | 
-|                                                                      |               | 
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               |
-|                                                                      |               | 
-|                                                                      |               | 
-|                                                                      |               | 
+|201 reads                                                                     | title         |
+| --------------------------------------------------------------------         | -----------   |
+| [main page](https://halaabuqamar.github.io/reading-notes/)                   | **main page** |
+| [read claas-01](https://halaabuqamar.github.io/reading-notes/class-01)       | **Class 01**  |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               | 
+|                                                                              |               | 
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               |
+|                                                                              |               | 
+|                                                                              |               | 
+|                                                                              |               | 
 
