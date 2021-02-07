@@ -50,7 +50,7 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 |------------------------------------------------------------------------------|---------------|
 | [main page](https://halaabuqamar.github.io/reading-notes/)                   | **main page** |
 | [read claas-01](https://halaabuqamar.github.io/reading-notes/class-01)       | **Class 01**  |
-|                                                                              |               |
+| [read claas-02](https://halaabuqamar.github.io/reading-notes/class-02)       | **class 02**  |
 |                                                                              |               |
 |                                                                              |               |
 |                                                                              |               |
