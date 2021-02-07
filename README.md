@@ -49,8 +49,8 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 |201 reads                                                                     | title         |
 |------------------------------------------------------------------------------|---------------|
 | [main page](https://halaabuqamar.github.io/reading-notes/)                   | **main page** |
-| [read claas-01](https://halaabuqamar.github.io/reading-notes/class-01)       | **Class 01**  |
-| [read claas-02](https://halaabuqamar.github.io/reading-notes/class-02)       | **class 02**  |
+| [read class-01](https://halaabuqamar.github.io/reading-notes/class-01)       | **Class 01**  |
+| [read class-02](https://halaabuqamar.github.io/reading-notes/class-02)       | **class 02**  |
 |                                                                              |               |
 |                                                                              |               |
 |                                                                              |               |
