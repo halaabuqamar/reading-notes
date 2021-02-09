@@ -77,3 +77,39 @@ pixels (to demonstrate its relevance without scrolling).
 * CSS Frameworks provide rules for common tasks.
 
 * You can include multiple CSS files in one page.
+
+# javascrit book:
+
+#### Chappter 13:
+
+*complex scripts can run to hundreds (even thousands) of lines. Programmers use functions, methods, and objects to organize their code*
+
+1. functions and methods:Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+ - function declaration: creat a name and then write the statment needed to achive 
+ - call function: one word used to execute all of the statments.
+
+
+Often functions are used to ensure that the variable names do not conflict
+with each other (especially if the page uses more than one script
+
+IMMEDIATELY INVOKED FUNCTION EXPRESSIONS (llFE) Pronounced "iffy," these functions are not given
+a name. Instead, they are executed once as the
+interpreter comes across them.
+
+The location where you declare a variable will affect where it can be used
+within your code. If you declare it within a function, it can only be used
+within that function. This is known as the **variable's scope**.
+
+**LOCAL VARIABLES**
+When a variable is created inside a function using the
+var keyword, it can only be used in that function.
+It is called a local variable or function-level variable
+
+**GLOBAL VARIABLES**
+If you create a variable outside of a function, then it
+can be used anywhere within the script. It is called a
+global variable and has global scope. In the example
+shown, wa 11 Size is a global variable.
+
+*Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed.*
