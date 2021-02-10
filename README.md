@@ -53,7 +53,7 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 | [read class-02](https://halaabuqamar.github.io/reading-notes/class-02)       | **class 02**  |
 | [read class-03](https://halaabuqamar.github.io/reading-notes/class-03)       | **class 03**  |
 | [read class-04](https://halaabuqamar.github.io/reading-notes/class-04)       | **class 04**  |
-|                                                                              |               |
+| [read class-05](https://halaabuqamar.github.io/reading-notes/class-05)       | **class 05**  |
 |                                                                              |               | 
 |                                                                              |               | 
 |                                                                              |               |
