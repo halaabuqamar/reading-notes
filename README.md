@@ -56,7 +56,7 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 | [read class-05](https://halaabuqamar.github.io/reading-notes/class-05)       | **class 05**  |
 | [read class-06](https://halaabuqamar.github.io/reading-notes/class-06)       | **class 06**  | 
 | [read class-07](https://halaabuqamar.github.io/reading-notes/class-07)       | **class 07**  | 
-|                                                                              |               |
+| [read class-08](https://halaabuqamar.github.io/reading-notes/class-08)       |**class 08**   |
 |                                                                              |               |
 |                                                                              |               |
 |                                                                              |               |
