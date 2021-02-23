@@ -62,6 +62,6 @@ is a **code hosting** platform for version control and collaboration. It lets yo
 | [read class-11](https://halaabuqamar.github.io/reading-notes/class-11)       | **class 11**  |
 | [read class-12](https://halaabuqamar.github.io/reading-notes/class-12)       | **class 12**  |
 | [read class-13](https://halaabuqamar.github.io/reading-notes/class-13)       | **class 13**  | 
-|                                                                              |               | 
+| [read class-14](https://halaabuqamar.github.io/reading-notes/class-14)       | **class14**   | 
 |                                                                              |               | 
 
